@@ -6,4 +6,4 @@ Ai Smart Teddy friend using the browsers speech synthesis and speech recognition
 - Browser speech recognition
 - Elizabot implementation
 
-![simple knob Image](smartted_screenshot.png)
+![Smart Ted Image](smartted_screenshot.png)
