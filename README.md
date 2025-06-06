@@ -8,4 +8,5 @@ Ai Smart Teddy friend using the browsers speech synthesis and speech recognition
 
 Live Demo here https://nigelskeels.github.io/smart-ted/
 
-![Smart Ted Image](smartted_screenshot.png)
+
+[<img src="smartted_screenshot.png">](https://nigelskeels.github.io/smart-ted/)
